@@ -1,0 +1,48 @@
+2026-03-30 08:36:02 - INFO - File deleted : /Users/benhursanthosh/Desktop/confidential/Screenshot 2026-03-04 at 12.11.45.png
+2026-03-30 08:36:46 - INFO - File created : /Users/benhursanthosh/Desktop/confidential/43740_5_0_1773918974 (1).jpg
+2026-03-30 08:40:05 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/demo.png
+2026-03-30 08:40:10 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/demo.png
+2026-03-30 08:40:18 - INFO - File renamed from /Users/benhursanthosh/Desktop/confidential/demo.png to /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 08:40:32 - INFO - File renamed from /Users/benhursanthosh/Desktop/confidential/43740_5_0_1773918974 (1).jpg to /Users/benhursanthosh/Desktop/confidential/benhur higher studies.jpg
+2026-03-30 08:41:38 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 08:41:42 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 08:42:39 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 08:42:42 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 08:43:15 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/benhur higher studies.jpg
+2026-03-30 08:43:19 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/benhur higher studies.jpg
+2026-03-30 08:58:34 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 08:59:35 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/benhur higher studies.jpg
+2026-03-30 08:59:39 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/benhur higher studies.jpg
+2026-03-30 08:59:49 - INFO - File renamed from /Users/benhursanthosh/Desktop/confidential/benhur higher studies.jpg to /Users/benhursanthosh/Desktop/confidential/demo2.jpg
+2026-03-30 11:38:41 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/demo2.jpg
+2026-03-30 11:38:41 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 11:38:44 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_113843.jpg
+2026-03-30 11:38:59 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/demo2.jpg
+2026-03-30 11:38:59 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 11:39:01 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_113901.jpg
+2026-03-30 11:57:11 - INFO - File renamed from /Users/benhursanthosh/Desktop/confidential/demo2.jpg to /Users/benhursanthosh/Desktop/confidential/tuio.jpg
+2026-03-30 11:57:11 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 11:57:13 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_115713.jpg
+2026-03-30 11:57:38 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/Benhur visa.png
+2026-03-30 11:57:38 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 11:57:40 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_115740.jpg
+2026-03-30 11:59:27 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/tuio.jpg
+2026-03-30 11:59:27 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 11:59:30 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_115930.jpg
+2026-03-30 11:59:52 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/tuio.jpg
+2026-03-30 11:59:52 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 11:59:55 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_115955.jpg
+2026-03-30 12:01:02 - INFO - Folder created : /Users/benhursanthosh/Desktop/confidential/untitled folder
+2026-03-30 12:01:02 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 12:01:04 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_120104.jpg
+2026-03-30 12:01:33 - INFO - Folder renamed from /Users/benhursanthosh/Desktop/confidential/untitled folder to /Users/benhursanthosh/Desktop/confidential/new
+2026-03-30 12:01:33 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 12:01:35 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_120135.jpg
+2026-03-30 12:02:31 - WARNING - OFFLINE MODE: Could not send Telegram alert. Evidence safely stored locally. Error: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: too Many Requests: retry after 8
+2026-03-30 12:02:56 - INFO - File created : /Users/benhursanthosh/Desktop/confidential/new/hi.pdf
+2026-03-30 12:02:56 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 12:02:58 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_120258.jpg
+2026-03-30 12:03:33 - WARNING - OFFLINE MODE: Could not send Telegram alert. Evidence safely stored locally. Error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-03-30 12:03:33 - INFO - File modified : /Users/benhursanthosh/Desktop/confidential/new/hi.pdf
+2026-03-30 12:03:33 - INFO - Intruder detected. Initializing webcam...
+2026-03-30 12:03:35 - INFO - SUCCESS: Offline snapshot secured at evidence_locker/intruder_20260330_120335.jpg

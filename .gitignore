@@ -1,4 +1,15 @@
+# Credentials
 .env
-venv/
+
+# Logs and Evidence
+File_LOG.log
+evidence_locker/
+*.jpg
+*.enc
+
+# Mac OS junk
+.DS_Store
+
+# Python Cache
 __pycache__/
-*.pkl
+*.pyc
